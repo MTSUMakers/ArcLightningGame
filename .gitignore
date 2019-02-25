@@ -1,0 +1,15 @@
+**/.*.swp
+mugen/docs
+mugen/Elecbyte.MUGEN.libs
+mugen/font
+mugen/Microsoft.VC90.CRT
+mugen/old_tools
+mugen/plugins
+mugen/work
+mugen/mugen.exe
+mugen/mugen.log
+mugen/readme.txt
+mugen/sff2png.exe
+mugen/sndmaker.exe
+mugen/sprmake2.exe
+mugen/stdout.txt
